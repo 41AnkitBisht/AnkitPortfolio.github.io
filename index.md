@@ -116,7 +116,7 @@
           <div class="social-links">
             <img id="social_image" src="images/linkiden.png" alt="FollowMe">
             <h3>Find me on Linkiden</h3>
-            <a target="_blank" href="https:www.linkedin.com/in/ankit-bisht-4442b4186/">Linkiden:@ankitbisht</a>
+            <a target="_blank" href="https://www.linkedin.com/in/ankit-bisht-4442b4186/">Linkiden:@ankitbisht</a>
           </div>
 
         </div>
