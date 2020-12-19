@@ -1,0 +1,17 @@
+:root{
+  /*Create a variable so you do not need to change color everywhere in css file*/
+  --mainColor:#606B56;
+  --secondaryColor:#515a48;
+
+  --borderColor:#161914;
+
+  --mainText:#fff;
+  --secondaryText:#eeeeee;
+
+  --themeDotBorder:#FFF;
+
+  --previewBg:rgb(81, 90, 72, 0.8);
+  --previewshadow: #2a2f25;
+
+  --buttonColor:#669966;
+}
