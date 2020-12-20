@@ -177,7 +177,7 @@
         <a href=""></a>
         <h3 style="text-align:center;" >Get In Touch</h3>
 
-        <form id="contact-form">
+        <form id="contact-form" method="post" action="contact-form-handler.php">
           <a name="contact"></a>
 
           <label>Name</label>
